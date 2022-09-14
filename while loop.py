@@ -1,0 +1,1 @@
+#a while loop is used to make a repetition of a condition  indefinitely till another condition is met#
