@@ -1,5 +1,7 @@
-#we might want to get an infromation  from the user when we call a functionjj
-#make a function that will cube a function
+#we might want to get an infromation  from the user when we call a function
+#make a function that will cube a function..
+#the return keyword returns a value when called
+
 from ast import Num
 
 import math
